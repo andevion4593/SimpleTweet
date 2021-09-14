@@ -34,7 +34,6 @@ The following **additional** features are implemented:
 ![SimpleTweetWalkthrough1](https://user-images.githubusercontent.com/81782504/133185308-b970efbf-7d7f-4cf5-8f15-a807f3cf5941.gif)
 ## Notes
 
-Describe any challenges encountered while building the app.
 
 ## Open-source libraries used
 
