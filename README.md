@@ -31,8 +31,7 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough
 
-![SimpleTweetWalkthrough](https://user-images.githubusercontent.com/81782504/133184496-b44c0fb7-2660-4078-86f2-93b0da9b9bc3.gif)
-
+![SimpleTweetWalkthrough1](https://user-images.githubusercontent.com/81782504/133185308-b970efbf-7d7f-4cf5-8f15-a807f3cf5941.gif)
 ## Notes
 
 Describe any challenges encountered while building the app.
